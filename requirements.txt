@@ -1,0 +1,12 @@
+torch>=1.9.0
+torchvision>=0.10.0
+numpy>=1.19.5
+pandas>=1.3.0
+matplotlib>=3.4.3
+seaborn>=0.11.2
+scikit-learn>=0.24.2
+jupyter>=1.0.0
+tqdm>=4.62.3
+albumentations>=1.0.3
+opencv-python>=4.5.3.56
+ultralytics>=8.0.0  # for YOLOv8 
