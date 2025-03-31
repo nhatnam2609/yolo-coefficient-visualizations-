@@ -37,8 +37,8 @@ ENV/
 # Project specific
 data/*
 !data/.gitkeep
-visualizations/*
-!visualizations/.gitkeep
+# visualizations/*
+# !visualizations/.gitkeep
 *.pth
 *.pt
 *.ckpt
